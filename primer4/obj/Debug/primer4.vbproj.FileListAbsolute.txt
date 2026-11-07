@@ -1,0 +1,11 @@
+D:\primer4\bin\Debug\primer4.exe.config
+D:\primer4\bin\Debug\primer4.exe
+D:\primer4\bin\Debug\primer4.pdb
+D:\primer4\bin\Debug\primer4.xml
+D:\primer4\obj\Debug\primer4.vbproj.AssemblyReference.cache
+D:\primer4\obj\Debug\primer4.Resources.resources
+D:\primer4\obj\Debug\primer4.vbproj.GenerateResource.cache
+D:\primer4\obj\Debug\primer4.vbproj.CoreCompileInputs.cache
+D:\primer4\obj\Debug\primer4.exe
+D:\primer4\obj\Debug\primer4.xml
+D:\primer4\obj\Debug\primer4.pdb
