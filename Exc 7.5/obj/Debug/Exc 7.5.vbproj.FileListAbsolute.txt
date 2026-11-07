@@ -1,0 +1,11 @@
+D:\PIIS\Exc 7.5\bin\Debug\Exc 7.5.exe.config
+D:\PIIS\Exc 7.5\bin\Debug\Exc 7.5.exe
+D:\PIIS\Exc 7.5\bin\Debug\Exc 7.5.pdb
+D:\PIIS\Exc 7.5\bin\Debug\Exc 7.5.xml
+D:\PIIS\Exc 7.5\obj\Debug\Exc 7.5.vbproj.AssemblyReference.cache
+D:\PIIS\Exc 7.5\obj\Debug\Exc_7._5.Resources.resources
+D:\PIIS\Exc 7.5\obj\Debug\Exc 7.5.vbproj.GenerateResource.cache
+D:\PIIS\Exc 7.5\obj\Debug\Exc 7.5.vbproj.CoreCompileInputs.cache
+D:\PIIS\Exc 7.5\obj\Debug\Exc 7.5.exe
+D:\PIIS\Exc 7.5\obj\Debug\Exc 7.5.xml
+D:\PIIS\Exc 7.5\obj\Debug\Exc 7.5.pdb

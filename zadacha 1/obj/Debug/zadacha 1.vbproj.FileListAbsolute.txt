@@ -1,0 +1,11 @@
+D:\PIIS\zadacha 1\bin\Debug\zadacha 1.exe.config
+D:\PIIS\zadacha 1\bin\Debug\zadacha 1.exe
+D:\PIIS\zadacha 1\bin\Debug\zadacha 1.pdb
+D:\PIIS\zadacha 1\bin\Debug\zadacha 1.xml
+D:\PIIS\zadacha 1\obj\Debug\zadacha 1.vbproj.AssemblyReference.cache
+D:\PIIS\zadacha 1\obj\Debug\zadacha_1.Resources.resources
+D:\PIIS\zadacha 1\obj\Debug\zadacha 1.vbproj.GenerateResource.cache
+D:\PIIS\zadacha 1\obj\Debug\zadacha 1.vbproj.CoreCompileInputs.cache
+D:\PIIS\zadacha 1\obj\Debug\zadacha 1.exe
+D:\PIIS\zadacha 1\obj\Debug\zadacha 1.xml
+D:\PIIS\zadacha 1\obj\Debug\zadacha 1.pdb
