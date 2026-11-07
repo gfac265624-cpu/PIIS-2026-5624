@@ -1,0 +1,11 @@
+D:\primer7\bin\Debug\primer7.exe.config
+D:\primer7\bin\Debug\primer7.exe
+D:\primer7\bin\Debug\primer7.pdb
+D:\primer7\bin\Debug\primer7.xml
+D:\primer7\obj\Debug\primer7.vbproj.AssemblyReference.cache
+D:\primer7\obj\Debug\primer7.Resources.resources
+D:\primer7\obj\Debug\primer7.vbproj.GenerateResource.cache
+D:\primer7\obj\Debug\primer7.vbproj.CoreCompileInputs.cache
+D:\primer7\obj\Debug\primer7.exe
+D:\primer7\obj\Debug\primer7.xml
+D:\primer7\obj\Debug\primer7.pdb

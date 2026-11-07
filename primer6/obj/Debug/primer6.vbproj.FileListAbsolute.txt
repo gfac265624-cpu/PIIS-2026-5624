@@ -1,0 +1,11 @@
+D:\primer6\bin\Debug\primer6.exe.config
+D:\primer6\bin\Debug\primer6.exe
+D:\primer6\bin\Debug\primer6.pdb
+D:\primer6\bin\Debug\primer6.xml
+D:\primer6\obj\Debug\primer6.vbproj.AssemblyReference.cache
+D:\primer6\obj\Debug\primer6.Resources.resources
+D:\primer6\obj\Debug\primer6.vbproj.GenerateResource.cache
+D:\primer6\obj\Debug\primer6.vbproj.CoreCompileInputs.cache
+D:\primer6\obj\Debug\primer6.exe
+D:\primer6\obj\Debug\primer6.xml
+D:\primer6\obj\Debug\primer6.pdb
