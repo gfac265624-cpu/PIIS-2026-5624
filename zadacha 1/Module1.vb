@@ -96,9 +96,75 @@
         Dim Np%
         Sp = 0 : Np = 0
         For i = 1 To M
-            For j = 1 To N
-                If i < j Then
+        Next
+        For j = 1 To N
+            If i < j Then
+            End If
+        Next
+
+
+        'е) средно аритметично на положителните елементи над главен диагонал, при квадратна матрица
+        If M = N Then
+
+            Sp = 0 : Np = 0
+            For i = 1 To M
+                For j = 1 To N
+                    If i < j Then
+                        If Z(i, j) > 0 Then
+                            Sp = Sp + Z(i, j)
+                            Np = Np + 1
+                        End If
+                    End If
+                Next
             Next
+            If Np > 0 Then
+                    Ap = Sp / Np
+                    Console.WriteLine("Ap=" & Ap)
+                    Console.ReadKey()
+                Else
+                    Console.WriteLine("Няма положителни елементи над главния диагонал")
+                    Console.ReadKey()
+                End If
+                Else
+                Console.WriteLine("Матрицата не е квадратна")
+                Console.ReadKey()
+                End If
+
+
+        'ж) макс под второстепенен диагонал
+        If M = N Then
+            Dim Max2#
+            Max2 = Z(M, N)
+            For i = 1 To M
+                For j = 1 To N
+                    If i + j > N + 1 Then
+                        If Z(i, j) > Max2 Then Max2 = Z(i, j)
+                    End If
+                Next
+            Next
+            Console.WriteLine("Max под второстепенен диагонал Max2=" & Max2)
+            Console.ReadKey()
+        End If
+
+        'з) С Max увеличете лява половина и намалете дясна половина
+        If N Mod 2 = 0 Then
+            For i = 1 To M
+                For j = 1 To N
+                    If j <= M / 2 Then
+                        Z(i, j) = Z(i, j) + Max
+                    Else
+                        Z(i, j) = Z(i, j) - Max
+                    End If
+                Next
+            Next
+            For i = 1 To M
+                For j = 1 To N
+                    Console.Write(Z(i, j) & "     ")
+                Next
+                Console.WriteLine()
+            Next
+        End If
+
 
     End Sub
 

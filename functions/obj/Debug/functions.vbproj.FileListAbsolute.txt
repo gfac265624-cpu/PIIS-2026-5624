@@ -1,0 +1,11 @@
+D:\PIIS\functions\bin\Debug\functions.exe.config
+D:\PIIS\functions\bin\Debug\functions.exe
+D:\PIIS\functions\bin\Debug\functions.pdb
+D:\PIIS\functions\bin\Debug\functions.xml
+D:\PIIS\functions\obj\Debug\functions.vbproj.AssemblyReference.cache
+D:\PIIS\functions\obj\Debug\functions.Resources.resources
+D:\PIIS\functions\obj\Debug\functions.vbproj.GenerateResource.cache
+D:\PIIS\functions\obj\Debug\functions.vbproj.CoreCompileInputs.cache
+D:\PIIS\functions\obj\Debug\functions.exe
+D:\PIIS\functions\obj\Debug\functions.xml
+D:\PIIS\functions\obj\Debug\functions.pdb
